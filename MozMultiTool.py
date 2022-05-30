@@ -13,7 +13,7 @@ title = """   __  __          __  __       _ _   _ _____           _
   |_|  |_|\___/___|_|  |_|\__,_|_|\__|_| |_|\___/ \___/|_|                                                         
 """
 
-options = ['╔═════════════════════╗', '║Discord Token Grabber║', '║Get Passwords        ║', '║IP Grabber           ║', '╚═════════════════════╝']
+options = ['╔═════════════════════╗', '║Discord Token Grabber║', '║Get Passwords        ║', '╚═════════════════════╝']
 
 option, index = pick(options, title, indicator='>', default_index=1)
 
