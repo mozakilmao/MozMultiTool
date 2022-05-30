@@ -14,5 +14,5 @@ webhook_url = 'WEBHOOK HERE'
 
 
 ip = get('https://api.ipify.org').text
-webhook = DiscordWebhook(url=webhool_url, content=f'IP Address is: {ip}')
+webhook = DiscordWebhook(url=webhook_url, content=f'IP Address is: ' +ip)
 response = webhook.execute()
