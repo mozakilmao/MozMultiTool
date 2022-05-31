@@ -13,5 +13,6 @@ OR
 
 Download as ZIP File
 run requirements.bat
+Extract it
 run start.bat
 ```
