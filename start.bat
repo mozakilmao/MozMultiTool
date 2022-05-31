@@ -1,2 +1,0 @@
-py MozMultiTool.py
-pause
